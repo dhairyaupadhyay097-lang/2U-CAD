@@ -18,3 +18,10 @@ Today I built the very first foundation and backbone of my CubeSat-the baseplate
 ![Screenshot_8-10-2025_221746_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--a25bb20ed97873eebcf287b3145461966c5d7875/Screenshot_8-10-2025_221746_cad.onshape.com.jpeg)
   
 
+## 10/9/2025 - #2 Battery Holders  
+
+#2
+
+Yo Guys battery holder is ready to be fit in the CubeSat which will be the heart of it, and powering it, currently I built half structure to keep batteries and other one will seal it. It is made for 4 cells and 2 packs like this are goanna be established in the CubeSat. Stay tuned for modifications and making it modular.![Screenshot_9-10-2025_18516_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--fc40ae0d82cde95fb1c9f6ca9cade889951e28ac/Screenshot_9-10-2025_18516_cad.onshape.com.jpeg)
+![Screenshot_9-10-2025_185545_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--1f262cedb963b9e377d58cedc1ca6437daf3dc72/Screenshot_9-10-2025_185545_cad.onshape.com.jpeg)  
+
