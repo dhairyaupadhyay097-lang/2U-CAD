@@ -18,14 +18,14 @@ Today I built the very first foundation and backbone of my CubeSat-the baseplate
 ![Screenshot_8-10-2025_221746_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--a25bb20ed97873eebcf287b3145461966c5d7875/Screenshot_8-10-2025_221746_cad.onshape.com.jpeg)
   
 
-## 10/9/2025 1 PM - #2 Battery Holders  
+## 10/9/2025 6 PM - #2 Battery Holders  
 
 #2
 
 Yo Guys battery holder is ready to be fit in the CubeSat which will be the heart of it, and powering it, currently I built half structure to keep batteries and other one will seal it. It is made for 4 cells and 2 packs like this are goanna be established in the CubeSat. Stay tuned for modifications and making it modular.![Screenshot_9-10-2025_18516_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--fc40ae0d82cde95fb1c9f6ca9cade889951e28ac/Screenshot_9-10-2025_18516_cad.onshape.com.jpeg)
 ![Screenshot_9-10-2025_185545_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--1f262cedb963b9e377d58cedc1ca6437daf3dc72/Screenshot_9-10-2025_185545_cad.onshape.com.jpeg)  
 
-## 10/9/2025 5 PM - #3 Making Battery holders Modular  
+## 10/9/2025 10 PM - #3 Making Battery holders Modular  
 
 #3
 
@@ -35,4 +35,18 @@ My quest was left half, made the battery holders modular and easily fixed in the
 ![Screenshot_9-10-2025_191211_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--078a1fa5cf17fe3f33d876f7580d5ca62350367d/Screenshot_9-10-2025_191211_cad.onshape.com.jpeg)
 ![Screenshot_9-10-2025_191137_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIyMywicHVyIjoiYmxvYl9pZCJ9fQ==--d90a44be87ad54209da95be33d274211826005fb/Screenshot_9-10-2025_191137_cad.onshape.com.jpeg)
 ![Screenshot_9-10-2025_191130_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--e36c0d374c0caeb412113cd2e15994f7a18e786c/Screenshot_9-10-2025_191130_cad.onshape.com.jpeg)  
+
+## 10/11/2025 - #4Dipole Antenna Deployers  
+
+
+
+#4
+
+The deployer will hold our antenna for data transmission safe during launching. We have chosen Tape measure antenna for our use of 433MHz frequency and 70cm wavelength. Our mechanism for deploying in burn wire mechanism in which we will give voltage to nichrome wire, which will bure and due to tension in tape measure caused by folding will deploy the antenna. A hook like structure is made for the wire to seize antenna before deployment.
+
+![Screenshot_11-10-2025_95436_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--2ee92b2039ec7fea1fbad1286461ee35c24230b0/Screenshot_11-10-2025_95436_cad.onshape.com.jpeg)
+![Screenshot_11-10-2025_95428_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--bff538b931c34e5d232b21c2d5d485036524c616/Screenshot_11-10-2025_95428_cad.onshape.com.jpeg)
+![Screenshot_11-10-2025_95419_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--459a06dd66623061ac6f1f92f3801b974117dca7/Screenshot_11-10-2025_95419_cad.onshape.com.jpeg)
+![Screenshot_11-10-2025_9553_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU1NywicHVyIjoiYmxvYl9pZCJ9fQ==--e52aa3dbbb39442e90be041eaf5e723d5770c119/Screenshot_11-10-2025_9553_cad.onshape.com.jpeg)
+  
 
