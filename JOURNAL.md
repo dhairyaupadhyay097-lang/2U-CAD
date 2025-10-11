@@ -36,7 +36,7 @@ My quest was left half, made the battery holders modular and easily fixed in the
 ![Screenshot_9-10-2025_191137_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIyMywicHVyIjoiYmxvYl9pZCJ9fQ==--d90a44be87ad54209da95be33d274211826005fb/Screenshot_9-10-2025_191137_cad.onshape.com.jpeg)
 ![Screenshot_9-10-2025_191130_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--e36c0d374c0caeb412113cd2e15994f7a18e786c/Screenshot_9-10-2025_191130_cad.onshape.com.jpeg)  
 
-## 10/11/2025 - #4Dipole Antenna Deployers  
+## 10/11/2025 10 AM - #4Dipole Antenna Deployers  
 
 
 
@@ -48,5 +48,20 @@ The deployer will hold our antenna for data transmission safe during launching. 
 ![Screenshot_11-10-2025_95428_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--bff538b931c34e5d232b21c2d5d485036524c616/Screenshot_11-10-2025_95428_cad.onshape.com.jpeg)
 ![Screenshot_11-10-2025_95419_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--459a06dd66623061ac6f1f92f3801b974117dca7/Screenshot_11-10-2025_95419_cad.onshape.com.jpeg)
 ![Screenshot_11-10-2025_9553_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU1NywicHVyIjoiYmxvYl9pZCJ9fQ==--e52aa3dbbb39442e90be041eaf5e723d5770c119/Screenshot_11-10-2025_9553_cad.onshape.com.jpeg)
+  
+
+## 10/11/2025 12 PM - #5 Radiation tolerant Case for PCBs  
+
+#5
+
+as a necessity, there exists a radiation tolerant PCB case integrated for 5 boards namely, power, RF, RF antenna, avionics and magnetorquer board. It is made 3mm thickness, which is enough to be protected by radiation as it will be inside the CubeSat not exposed, a special place made for the antenna deployers to fix at the bottom as shown in the section view, it will fit. ![Screenshot_11-10-2025_115711_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--e58431133a1f83f6e28344504efc301c71eb20a3/Screenshot_11-10-2025_115711_cad.onshape.com.jpeg)
+
+
+![Screenshot_11-10-2025_115720_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--f6c23934f27ac250b7f203b02f4c97f2d04b3112/Screenshot_11-10-2025_115720_cad.onshape.com.jpeg)
+![Screenshot_11-10-2025_115738_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--e41f2a76a1658e151d10c5b8662379b5d8adfc01/Screenshot_11-10-2025_115738_cad.onshape.com.jpeg)
+![Screenshot_11-10-2025_1249_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU2NywicHVyIjoiYmxvYl9pZCJ9fQ==--6b44bc32eb61d49c9fa6897e4949c2b8c133027a/Screenshot_11-10-2025_1249_cad.onshape.com.jpeg)
+![Screenshot_11-10-2025_12448_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--7fbba80b0127ccb576f736180c14e116e21818d3/Screenshot_11-10-2025_12448_cad.onshape.com.jpeg)
+
+![Screenshot_11-10-2025_12511_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--88a4c417ae423a53a186f9647f140cba6c353db9/Screenshot_11-10-2025_12511_cad.onshape.com.jpeg)
   
 
