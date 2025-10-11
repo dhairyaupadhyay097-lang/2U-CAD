@@ -65,3 +65,13 @@ as a necessity, there exists a radiation tolerant PCB case integrated for 5 boar
 ![Screenshot_11-10-2025_12511_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--88a4c417ae423a53a186f9647f140cba6c353db9/Screenshot_11-10-2025_12511_cad.onshape.com.jpeg)
   
 
+## 10/11/2025 7 PM - #6 Making modular Baseplate and Cube rai  
+
+#6
+
+Some Changes were needed for the CubeSat to be modular and build-up friendly. Just made walls for support of cases. All the corners are there with 3*3mm squares which will act like rail just like the cube rails are. All the cases will do down the rails and fixed at the bottom.
+
+![Screenshot_11-10-2025_191158_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--b3979fc9d5d7e1c22d1ea0b7f8ba55991282efff/Screenshot_11-10-2025_191158_c![Screenshot_11-10-2025_19126_cad.onshape.com.jpeg](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--30f37c6a566a780182960fb941c528e8e322d2fe/Screenshot_11-10-2025_19126_cad.onshape.com.jpeg)
+ad.onshape.com.jpeg)
+  
+
