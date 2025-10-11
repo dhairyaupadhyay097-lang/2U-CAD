@@ -65,7 +65,7 @@ as a necessity, there exists a radiation tolerant PCB case integrated for 5 boar
 ![Screenshot_11-10-2025_12511_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--88a4c417ae423a53a186f9647f140cba6c353db9/Screenshot_11-10-2025_12511_cad.onshape.com.jpeg)
   
 
-## 10/11/2025 7 PM - #6 Making modular Baseplate and Cube rai  
+## 10/11/2025 7 PM - #6 Making modular Baseplate and Cube rails  
 
 #6
 
