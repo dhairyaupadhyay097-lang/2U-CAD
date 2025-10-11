@@ -76,3 +76,21 @@ Some Changes were needed for the CubeSat to be modular and build-up friendly. Ju
 ![Screenshot_11-10-2025_191158_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--0e27c9a7d8e4e59e9d65af195ad8bf32ee8b4b6c/Screenshot_11-10-2025_191158_cad.onshape.com.jpeg)
   
 
+## 10/11/2025 10 PM - #7 Integrating PCB Case with battery holders  
+
+#7 
+
+Integrated battery holder with radiation tolerant PCB case. A plate is inserted in between them for screws which I will make for whole satellite. For modulation space is kept open between them for wires and cable coming through the holder and the solar panels too. Trust me guys integrating 2 objects took longer than expected due to some dimensional errors as well as mate forms.
+
+
+![Screenshot_11-10-2025_193347_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--7ab762ca7bf8eaab6e06638493aa5c055aa3cf0c/Screenshot_11-10-2025_193347_cad.onshape.com.jpeg)
+
+
+
+![Screenshot_11-10-2025_193519_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwMywicHVyIjoiYmxvYl9pZCJ9fQ==--a05e234fe20efdd8fc938cec18c174d97f2b8ea5/Screenshot_11-10-2025_193519_cad.onshape.com.jpeg)
+
+![Screenshot_11-10-2025_193421_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--d0a61bb0800cb02fdc1180a862ef08480e497911/Screenshot_11-10-2025_193421_cad.onshape.com.jpeg)
+
+
+![Screenshot_11-10-2025_193359_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--8ac2b2e9012438490a103efd531bb1eb16004c24/Screenshot_11-10-2025_193359_cad.onshape.com.jpeg)  
+
