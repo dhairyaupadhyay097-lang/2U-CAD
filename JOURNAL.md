@@ -94,3 +94,23 @@ Integrated battery holder with radiation tolerant PCB case. A plate is inserted 
 
 ![Screenshot_11-10-2025_193359_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--8ac2b2e9012438490a103efd531bb1eb16004c24/Screenshot_11-10-2025_193359_cad.onshape.com.jpeg)  
 
+## 10/12/2025 - #8 Top Plate  
+
+#8
+
+Just made the top plate today which will be closed at the last, after completing the assembly. Holes are made for screws to attach top solar panel as well as cube rails to it, those cave like structure are made for deployment of solar panels using the same burn wire and tape measure mechanism. It was fascinating to build.
+
+![Screenshot_12-10-2025_114441_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--90e0833243245dcfd86469b59fabaf71c237a4e8/Screenshot_12-10-2025_114441_cad.onshape.com.jpeg)
+
+![Screenshot_12-10-2025_114524_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--1a7d315375804d9576aa863a9d55194055077376/Screenshot_12-10-2025_114524_cad.onshape.com.jpeg)
+
+![Screenshot_12-10-2025_11453_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--a7a61a75e7fc5318ef2f7fb1029542bd3033e955/Screenshot_12-10-2025_11453_cad.onshape.com.jpeg)
+
+![Screenshot_12-10-2025_114514_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--ff87a89bdaa6405c301695585f2e29c9ef7463ea/Screenshot_12-10-2025_114514_cad.onshape.com.jpeg)
+
+
+
+
+
+  
+
