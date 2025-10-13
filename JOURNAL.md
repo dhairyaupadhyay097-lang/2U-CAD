@@ -114,3 +114,38 @@ Just made the top plate today which will be closed at the last, after completing
 
   
 
+## 10/13/2025 - #9 Radiation hardened cover for Camera   
+
+#9
+
+Guys, I was waiting for do this one as I felt it the most satisfying thing in this whole project. I made the Radiation hardened cover for my cam which is GoPro hero 10 barebones. It is made in two parts, the case and the cover, screws are designed for its mount as well as connecting them both. integrated and minimal designs you can see there for whole cam including buttons, one thing remaining was the space for cable to come out for power and image transmission, will do it later.
+
+![Screenshot_13-10-2025_224030_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--f6328b729cc361926659e547ef462d5abf7c2f6b/Screenshot_13-10-2025_224030_cad.onshape.com.jpeg)
+
+![Screenshot_13-10-2025_224042_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--cdde874e6185d7e03156fe9c2cfd3401596909e4/Screenshot_13-10-2025_224042_cad.onshape.com.jpeg)
+
+
+![Screenshot_13-10-2025_224245_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--f794a7e9fe3329126fabc01510ae667986083e17/Screenshot_13-10-2025_224245_cad.onshape.com.jpeg)
+
+![Screenshot_13-10-2025_224259_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAzNywicHVyIjoiYmxvYl9pZCJ9fQ==--3eacf39372638e1000d2fc5dfbecc210636def3d/Screenshot_13-10-2025_224259_cad.onshape.com.jpeg)
+
+
+![Screenshot_13-10-2025_224128_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--0e51b363bbf18c89928c2140c0b487b7612e081e/Screenshot_13-10-2025_224128_cad.onshape.com.jpeg)
+
+![Screenshot_13-10-2025_22422_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--9fa90e0b58f2e00debc7dce68ec4ba50483331e2/Screenshot_13-10-2025_22422_cad.onshape.com.jpeg)
+
+![Screenshot_13-10-2025_224214_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAzMywicHVyIjoiYmxvYl9pZCJ9fQ==--49dadfdcc62731e87edd801664488676842fc68b/Screenshot_13-10-2025_224214_cad.onshape.com.jpeg)
+
+![Screenshot_13-10-2025_224225_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--64706266870182d55f0fe2a7ea05492066f4e8ec/Screenshot_13-10-2025_224225_cad.onshape.com.jpeg)
+
+![Screenshot_13-10-2025_224230_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--f4e58b60a517f64dc708e1f30a5ab5a63e39a470/Screenshot_13-10-2025_224230_cad.onshape.com.jpeg)
+
+
+
+
+
+
+
+
+  
+
