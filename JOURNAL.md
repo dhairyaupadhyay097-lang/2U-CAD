@@ -149,3 +149,29 @@ Guys, I was waiting for do this one as I felt it the most satisfying thing in th
 
   
 
+## 10/14/2025 - #10 Screw with Standoffs and Nuts  
+
+#10
+
+Yo guys, today I made a Hex Bolt, standoffs of different length according to the need and their nuts, for my satellite which are M3 by specifications, at some places, M2 are also used for minimalism. This is the smallest thing made for the satellite and can be called as a connecting pillar.
+
+![Screenshot_14-10-2025_205918_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--4e60d1fff8de7d1ce20f15c597242a43f04d12e2/Screenshot_14-10-2025_205918_cad.onshape.com.jpeg)
+
+![Screenshot_14-10-2025_205910_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE5NywicHVyIjoiYmxvYl9pZCJ9fQ==--d6127e267b901afd9593eacdcb2b060dd9803fb5/Screenshot_14-10-2025_205910_cad.onshape.com.jpeg)
+
+![Screenshot_14-10-2025_205930_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--dbaa219bd7f08ca9a932a098c0b1ce0f55ecff0b/Screenshot_14-10-2025_205930_cad.onshape.com.jpeg)
+
+![Screenshot_14-10-2025_205957_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--31b2b247462533993d90211c6f0dffaaee91e0fd/Screenshot_14-10-2025_205957_cad.onshape.com.jpeg)
+
+![Screenshot_14-10-2025_21820_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--0f7a3de01a44a56997d45bfee9b71333dca6aa5f/Screenshot_14-10-2025_21820_cad.onshape.com.jpeg)
+
+
+![Screenshot_14-10-2025_21015_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--67cefe760e9b362b641fdf9d348e33e7ffa4fc9b/Screenshot_14-10-2025_21015_cad.onshape.com.jpeg)
+
+![Screenshot_14-10-2025_21141_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--e7463a2bb68442416721c39e3864a4709803f491/Screenshot_14-10-2025_21141_cad.onshape.com.jpeg)
+
+
+
+
+  
+
