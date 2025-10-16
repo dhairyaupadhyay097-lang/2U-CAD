@@ -175,3 +175,17 @@ Yo guys, today I made a Hex Bolt, standoffs of different length according to the
 
   
 
+## 10/16/2025 - #11 Magnetorquers  
+
+#11
+
+Yo guys, I made the structure for my magnetorquers. Magnetorquers are used for orientation of the CubeSat on 2-axis for taking over control on camera facing and also max. power point, the sun facing one, these can be controlled via MGT. The materiel used will be different, most probably Mn-Zn ferrite, which will work for gaining magnetic field.
+
+![Screenshot_16-10-2025_85235_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--a2fe6678b3fdfbf3b1daff6703917285e61fc952/Screenshot_16-10-2025_85235_cad.onshape.com.jpeg)
+
+![Screenshot_16-10-2025_85244_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--d554a9fa3c8af3455780f3624e82959b78cead18/Screenshot_16-10-2025_85244_cad.onshape.com.jpeg)
+
+![Screenshot_16-10-2025_85258_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--2ab27f79d282b3fcc30eb71187f516b69a6a79ed/Screenshot_16-10-2025_85258_cad.onshape.com.jpeg)
+
+  
+
