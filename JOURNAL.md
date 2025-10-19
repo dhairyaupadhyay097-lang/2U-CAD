@@ -189,3 +189,23 @@ Yo guys, I made the structure for my magnetorquers. Magnetorquers are used for o
 
   
 
+## 10/19/2025 - #12 Integration of Baseplate and Cube rails with Camera case  
+
+
+#12
+
+Hmm, just an integration of Baseplate and Cube rails with radiation hardened Camera case. Dug some holes for screws to add it on and made a lens size carved out area on the wall for lens to come out and take pictures, video etc. Some other cuts will also made on the wall for other objects too.
+
+
+![Screenshot_17-10-2025_142759_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIyMywicHVyIjoiYmxvYl9pZCJ9fQ==--b72ebbdb19c0bba224a9ded3e7992227c1504bfc/Screenshot_17-10-2025_142759_cad.onshape.com.jpeg)
+
+![Screenshot_17-10-2025_144733_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--52ad4c41a7000bf7924f92ee4b53956165f94905/Screenshot_17-10-2025_144733_cad.onshape.com.jpeg)
+![Screenshot_17-10-2025_142924_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIyNywicHVyIjoiYmxvYl9pZCJ9fQ==--91a48c0df3851e6680a98a3f35c9891affaaa6fd/Screenshot_17-10-2025_142924_cad.onshape.com.jpeg)
+![Screenshot_17-10-2025_142835_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--930f6ebe1e6adc50e635f2eaba4891bbec22b070/Screenshot_17-10-2025_142835_cad.onshape.com.jpeg)
+
+![Screenshot_17-10-2025_14287_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--e5da22bdb26cc04abdc6f66c1408aeed5e62dd2e/Screenshot_17-10-2025_14287_cad.onshape.com.jpeg)
+
+![Screenshot_17-10-2025_142911_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--79721acf21ca6bdd97f53b6ff7357192e5241765/Screenshot_17-10-2025_142911_cad.onshape.com.jpeg)
+
+  
+
