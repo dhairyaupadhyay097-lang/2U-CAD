@@ -209,3 +209,28 @@ Hmm, just an integration of Baseplate and Cube rails with radiation hardened Cam
 
   
 
+## 10/20/2025 - #13 Top plate with baseplate  
+
+#13
+
+Guys, top plate is now set with baseplate to hold long solar panels on 4 sides and one on the top, with the assembly arranged. Some cuts are made on the wall for deployment mechanism for solar panels which is same as the dipole antenna one, extension on the wall is also made to attach top plate with baseplate with M3 screws.
+
+![Screenshot_19-10-2025_175837_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY1NywicHVyIjoiYmxvYl9pZCJ9fQ==--18f0f4b9e1a637ea85dd2e8c3e59466a5d7a4124/Screenshot_19-10-2025_175837_cad.onshape.com.jpeg)
+
+![Screenshot_19-10-2025_18101_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--312c96f83aef964c3b31c9acb761b1b558111e61/Screenshot_19-10-2025_18101_cad.onshape.com.jpeg)
+
+![Screenshot_19-10-2025_181011_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--8ade1636843d172ca2832187d1f761993d98e140/Screenshot_19-10-2025_181011_cad.onshape.com.jpeg)
+
+![Screenshot_19-10-2025_181024_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--f23e7cd83608d0ddc4836f469875dd96bb48e0b2/Screenshot_19-10-2025_181024_cad.onshape.com.jpeg)
+
+![Screenshot_19-10-2025_181054_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--03af541caf7c84b68380950c0dfe8cb35a7d3c58/Screenshot_19-10-2025_181054_cad.onshape.com.jpeg)
+
+
+
+
+![Screenshot_19-10-2025_17457_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY2MywicHVyIjoiYmxvYl9pZCJ9fQ==--d8f57b08ba777270d2b4c36a6e302433637fb60c/Screenshot_19-10-2025_17457_cad.onshape.com.jpeg)
+
+
+![Screenshot_19-10-2025_181118_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--f268e5bd4b6ef69f7b71a251a05dda8c8422dc7a/Screenshot_19-10-2025_181118_cad.onshape.com.jpeg)
+  
+
