@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **CAD design for 2U CubeSat **.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/288).
-
-
 ## 10/8/2025 - #1-Stated off with Baseplate and cube rails   
 
 #1
@@ -232,5 +228,18 @@ Guys, top plate is now set with baseplate to hold long solar panels on 4 sides a
 
 
 ![Screenshot_19-10-2025_181118_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--f268e5bd4b6ef69f7b71a251a05dda8c8422dc7a/Screenshot_19-10-2025_181118_cad.onshape.com.jpeg)
+  
+
+## 10/24/2025 - #14 Making the base plate as lighter as a feather  
+
+
+#14
+
+Ayo guys, long time break for Diwali, today I just made some holes or big caves on the baseplate so that our tiny fingers can work inside and can get a view of that thing, it is done roughly as many things will be changing there for sure for deployment mechanism, screwing it up lol, and ya shielding it from UV rays. And guess what, somethings big for it is coming up soon!!![Screenshot_24-10-2025_15365_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--c1708c5983af956e34f705692f8dcfbec4ca4c24/Screenshot_24-10-2025_15365_cad.onshape.com.jpeg)
+
+![Screenshot_24-10-2025_153615_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--01625160ff46abca5b4d13913f432aed0f6475a4/Screenshot_24-10-2025_153615_cad.onshape.com.jpeg)
+
+![Screenshot_24-10-2025_153631_cad.onshape.com.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--f6df4200de926a41622d3bd5c017d3261a02c710/Screenshot_24-10-2025_153631_cad.onshape.com.jpeg)
+
   
 
