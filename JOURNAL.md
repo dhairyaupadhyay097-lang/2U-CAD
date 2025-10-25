@@ -243,3 +243,36 @@ Ayo guys, long time break for Diwali, today I just made some holes or big caves 
 
   
 
+## 10/25/2025 - #15 Full Side Solar panels   
+
+#15
+
+Guys, this post made a lot of crap in my mind, although I completed all the solar panels to b place on the side panels of the satellite. you refer it like this:
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM5MywicHVyIjoiYmxvYl9pZCJ9fQ==--5a33f7c5220b330aa8654e6bea22312e4753da4c/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--cc77251574c73da50e9b44fabfa77ba5098a5b5a/image.png)
+
+
+
+
+The purpose of making whole panels on PCB was nothing but Cost!!, we found many ready to use solar panels, but they were way too expensive-about 3 times our whole CubeSat budget. 
+Here I use SM141K10TF https://www.digikey.com/en/products/detail/anysolar-ltd/SM141K10TF/14311415?msockid=29b7086329956da600e61d8b280e6c96 as our solar cell, you can see that here, placed 8 on every side, generating 6.91 Volts at 9.8A, which is good as it will cross 10 when top panel is developed.
+You can s=also see an NTC thermistor for monitoring temperature on the surface of the panels.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--5a3a9b11da8118a3b44c7b9402b1a3121a7074d3/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQwMywicHVyIjoiYmxvYl9pZCJ9fQ==--521ab6a2cc4ae85961035175d8a050d37ba5370c/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--c499ce6f5e03bb2bd1e30e950a2743f30019c257/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--902e9334b48a510cdd4652b1d4bbb2044d692451/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQwNywicHVyIjoiYmxvYl9pZCJ9fQ==--b753b4278eabce0c730e6054cb0d235ac9078680/image.png)
+
+Cuts for deployments are also made.
+One thing to mention that I will PCBA this so the connector will be placed on the back not on the on the top, top will remain flat. Connecter is for thermistor and those pas are for solar power.
+This whole R&D, Building PCB, finding Solar cell, making it dimensionally correct (may change in integration with CAD), and all the stuff took me not more than 8.5 hours!!!
+
+  
+
