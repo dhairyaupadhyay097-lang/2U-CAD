@@ -243,7 +243,7 @@ Ayo guys, long time break for Diwali, today I just made some holes or big caves 
 
   
 
-## 10/25/2025 3:11 PM - #15 Full Side Solar panels   
+## 10/25/2025 - #15 Full Side Solar panels   
 
 #15
 
@@ -273,21 +273,6 @@ You can s=also see an NTC thermistor for monitoring temperature on the surface o
 Cuts for deployments are also made.
 One thing to mention that I will PCBA this so the connector will be placed on the back not on the on the top, top will remain flat. Connecter is for thermistor and those pas are for solar power.
 This whole R&D, Building PCB, finding Solar cell, making it dimensionally correct (may change in integration with CAD), and all the stuff took me not more than 8.5 hours!!!
-
-  
-
-## 10/25/2025 3:33 PM - #16 Small integration  
-
-#16 
-
-Started off with small integrations, made the whole satellite modular made my heart full of satisfaction.
-I built the standoff from baseplate to PCB case for holding it upright along one axis as it is fixed, pressed by wall on another axes. it is like a sliding function. Walls are going to be absent to reduce weight, and for the sake of thermal stability, we are going to use heat coils, and also MLI for insulation and UV protection.
-
-![Screenshot_25-10-2025_152746_cad.onshape.com](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--11058f04dbc9f772de3648f7ce92eae5ad6b4ccf/Screenshot_25-10-2025_152746_cad.onshape.com.jpeg)
-
-![Screenshot_25-10-2025_152758_cad.onshape.com](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--9c6d9bcd74f4311c2ef345d1b5cc6bb7e8924792/Screenshot_25-10-2025_152758_cad.onshape.com.jpeg)
-
-![Screenshot_25-10-2025_152832_cad.onshape.com](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--5f3685c6338851691937d35bb178d0a6ff463228/Screenshot_25-10-2025_152832_cad.onshape.com.jpeg)
 
   
 
