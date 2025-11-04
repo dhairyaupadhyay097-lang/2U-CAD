@@ -289,3 +289,26 @@ I built the standoff from baseplate to PCB case for holding it upright along one
 
 ![Screenshot_25-10-2025_152832_cad.onshape.com](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--5f3685c6338851691937d35bb178d0a6ff463228/Screenshot_25-10-2025_152832_cad.onshape.com.jpeg)  
 
+## 11/4/2025 - #17 Here Comes the Battery PCB  
+
+#17 
+
+Ayo guys, it's been a while, hasn't it? no worries i am back with my battery PCB  to be placed in the gaps made before on the design of battery holder, particularly this PCB will connect all +ve and -ve connection of battery and the connecter at the end of the PCB will go to the power board. After many research on C rating, power required (consumption) I have chosen this battery https://robu.in/product/samsung-inr18650-35e-3500mah-2c-li-ion-battery/#tab-specification
+for the CubeSat, you may DM me in Slack for more info.
+
+Schematic:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--2b667806bbb604b5e9b5d7471f003dafb6d6f478/image.png)
+
+Board:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--4f7fd49548007ee027a6e248b8d9e3e2e38a2c91/image.png)
+
+3D:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--0dae84d82729ac9b63a9a0756da90518d87613e7/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--0eb34cf44ca686a5bef36f9d1a483402b781be63/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--4a83674b637cfad1bad49047e66baba74116ad43/image.png)
+
+
+
+
+  
+
