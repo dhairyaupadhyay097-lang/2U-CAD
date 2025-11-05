@@ -312,3 +312,17 @@ Board:
 
   
 
+## 11/5/2025 - #18 Integrating Battery PCB with cad model  
+
+#18
+
+Got to do some integration work, although it had some dimensional error which I fixed and space disturbances too which were difficult to manage but did, and here it fits. Well, it took me more to find mate because it has individual parts and not a selectable center.
+![Screenshot_5-11-2025_14731_cad.onshape.com](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODU0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--5357a4ca5f45436d088c1c580343e2b2c658a79a/Screenshot_5-11-2025_14731_cad.onshape.com.jpeg)
+
+![Screenshot_5-11-2025_14813_cad.onshape.com](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODU1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--9f81e9f403311111254b0ab71df4fd252ae41d24/Screenshot_5-11-2025_14813_cad.onshape.com.jpeg)
+
+![Screenshot_5-11-2025_14835_cad.onshape.com](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODU1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--b56cc112983ef60027ba6e2f205df75f60c50d95/Screenshot_5-11-2025_14835_cad.onshape.com.jpeg)
+
+
+  
+
