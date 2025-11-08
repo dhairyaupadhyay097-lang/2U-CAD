@@ -326,3 +326,14 @@ Got to do some integration work, although it had some dimensional error which I 
 
   
 
+## 11/8/2025 - #19 Making Solar Cells in Cad with PCB  
+
+#19
+
+Soon to finish, I made a solar cell which is integrated here with the model of my solar pcb, actually I tried to fix my panel with CubeSat mode, but due to some dimensional error I will do it in the next journal, stay tuned for that, again to tell , I our solar cell is SM141K10T10F from Digi key you may check it out.
+
+
+![Screenshot_8-11-2025_214639_cad.onshape.com](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--c748a19ddad44b2645a14ba7bcd46de3e7e22f84/Screenshot_8-11-2025_214639_cad.onshape.com.jpeg)
+![Screenshot_8-11-2025_214645_cad.onshape.com](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ3MywicHVyIjoiYmxvYl9pZCJ9fQ==--7ae1ccf72c7196f58c57abd1c3b2f4c4ca39ddcd/Screenshot_8-11-2025_214645_cad.onshape.com.jpeg)![Screenshot_8-11-2025_214452_cad.onshape.com](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ3NywicHVyIjoiYmxvYl9pZCJ9fQ==--a19cac0d7808948f88ab2f30ff7f606ccb6313ef/Screenshot_8-11-2025_214452_cad.onshape.com.jpeg)![Screenshot_8-11-2025_21463_cad.onshape.com](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--ac59adc077ce225fc56da50cafc730f98a3c5051/Screenshot_8-11-2025_21463_cad.onshape.com.jpeg)![Screenshot_8-11-2025_214537_cad.onshape.com](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--863416e786efdcb38848ffbef244eec29eccd1f5/Screenshot_8-11-2025_214537_cad.onshape.com.jpeg)![Screenshot_8-11-2025_21458_cad.onshape.com](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--a6e59207caa004b1f53512dfe2f30cb93e41f03b/Screenshot_8-11-2025_21458_cad.onshape.com.jpeg)
+  
+
